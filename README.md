@@ -4,7 +4,7 @@
 - Create RN project: npx react-native init rnw2 - template react-native-template-typescript
 - Install the following packages
    * npm i react-dom react-native-web
-   * npm i -D npm i -D webpack-dev-server html-webpack-plugin babel-plugin-react-native-web babel-loader webpack-cli
+   * npm i -D webpack-dev-server html-webpack-plugin babel-plugin-react-native-web babel-loader webpack-cli
 
 ## Create / Edit files for RNW
 - ./webpack.config.js
